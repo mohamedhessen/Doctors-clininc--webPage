@@ -1,0 +1,46 @@
+*  {
+    margin:  0 ; 
+    padding:  0 ;
+}
+body{   
+    background-image: url("default.jpg");
+    margin-top: 51px;
+    margin-left: 26px;
+    font-size: 16px;
+    background-attachment: fixed;
+    background-repeat: no-repeat ;
+    overflow-x: hidden;
+}
+
+.navbar-toggler-iconr{
+  background-color: rgb(114, 141, 136);
+}
+
+
+.group_selection
+{
+      margin-left:51px;
+      margin-top: 101px;
+      width:701px;
+
+}
+
+.custom-select {
+    border-radius: 8px;
+    height:61px; 
+    
+    
+}
+.alert1 {
+
+    border-radius: 8px;
+    background-color: #CFD5D7;
+    padding: 10px;
+    margin-top: 25px;
+    width:700px;
+    margin-left: 40px;
+    margin-bottom: 25px;  
+}
+.btn {
+    margin: 11px;
+}
